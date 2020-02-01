@@ -1,0 +1,27 @@
+{
+  "name": "json-schema-playpen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminlai/json-schema-playpen.git"
+  },
+  "author": "benjaminlai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminlai/json-schema-playpen/issues"
+  },
+  "homepage": "https://github.com/benjaminlai/json-schema-playpen#readme",
+  "dependencies": {
+    "@types/node": "^12.12.8",
+    "ajv": "^6.10.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0"
+  }
+}
